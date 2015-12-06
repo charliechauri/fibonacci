@@ -1,0 +1,12 @@
+body {
+	font-size: 21px;
+	color: #313131;
+}
+
+header{
+	background-color: #0097A7;
+	color: white;
+}
+.break-word{
+	word-break: break-all;
+}
